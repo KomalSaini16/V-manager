@@ -1,5 +1,7 @@
 public class vehicle{
+
     public static void main (String[]args){
-        System.out.println("System");
+     Petrol pe=new Petrol();
+     pe.run();
     }
 }
