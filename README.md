@@ -1,1 +1,1 @@
-this is the file for project vehicle-manager
+this is the project vehicle-manager for git-demo
